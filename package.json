@@ -1,0 +1,22 @@
+{
+  "name": "javascript-algorithms-ts",
+  "version": "1.0.0",
+  "description": "javascript algorithms",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willwei/javascript-algorithms-ts.git"
+  },
+  "keywords": [
+    "algorithms"
+  ],
+  "author": "willwei",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/willwei/javascript-algorithms-ts/issues"
+  },
+  "homepage": "https://github.com/willwei/javascript-algorithms-ts#readme"
+}
